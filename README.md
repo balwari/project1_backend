@@ -8,5 +8,11 @@ git checkout -b branch_name
 
 npm install
 
+git add .
+
+git commit -m "changes description"
+
+git push origin branch_name
+
 
 
